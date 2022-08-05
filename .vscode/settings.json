@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 4,
+  "mypy.dmypyExecutable": "/home/vncnt/.cache/pypoetry/virtualenvs/flask-exp-svc-lozc6vZ2-py3.10/bin/dmypy",
+  "files.associations": {
+    ".env": "text"
+  },
+  "python.testing.pytestArgs": [
+    "tests"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
